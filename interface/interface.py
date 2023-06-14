@@ -8,7 +8,7 @@ from tkinter import ttk, messagebox, scrolledtext, filedialog
 import core.readOF as readOF
 import settings.interface as config_for_interface
 import core.fact as fact
-import oi
+import core.io as oi
 
 
 def choose_folder(folder_id):
